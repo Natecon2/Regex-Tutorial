@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Regex Tutorial
 
 In the world of web development and text processing, regular expressions, often referred to as regex, are a set of tools for pattern matching and text manipulation. They allow you to define complex search patterns within strings. In this tutorial, I will explain more in depth on what you can expect from Regex!
 
