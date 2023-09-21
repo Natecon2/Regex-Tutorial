@@ -213,4 +213,4 @@ By using character escapes, you can match these special characters literally in 
 
 ## Author
 
-Hello! my name is Nathan and this was written by me! Here is my GitHub profile for more!
+Hello! my name is Nathan and this was written by me! Here is my GitHub profile for more! https://github.com/Natecon2
